@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+gbprinter-wifi/data/*
+!gbprinter-wifi/data/conf.sample.json
+/gbprinter-wifi/config.h
